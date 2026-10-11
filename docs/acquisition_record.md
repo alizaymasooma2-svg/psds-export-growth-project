@@ -5,7 +5,7 @@
 - Original filename: P_Data_Extract_From_World_Development_Indicators (3)
 - File format: Excel (.xlsx)
 - Unit of analysis: Country-year observation
-- Time period: 2000–2025
+- Time period: 2001–2025
 
 Selected indicators:
 - Target variable: Export growth, annual (%) — NE.EXP.GNFS.KD.ZG
